@@ -1,0 +1,16 @@
+{
+  "goal": "maintain",
+  "current_weight": 170,
+  "calories": {
+    "P": 180,
+    "C": 220,
+    "F": 60,
+    "Other": 350
+  },
+  "workouts": [
+    {"type": "run", "duration": 45, "intensity": 7, "sets": 1},
+    {"type": "lift", "duration": 60, "intensity": 8, "sets": 4},
+    {"type": "bike", "duration": 40, "intensity": 6, "sets": 1},
+    {"type": "run", "duration": 50, "intensity": 8, "sets": 1}
+  ]
+}
